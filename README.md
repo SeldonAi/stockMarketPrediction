@@ -24,7 +24,7 @@ Questo progetto è stato sviluppato presso l'Università di Pisa nel contesto de
 3. **Analisi Predittiva**: Implementazione di modelli di machine learning per prevedere l'etichetta di settore di ciascuna azienda.
 
 ## Come Utilizzare
-1. Installare le dipendenze Python:
+Installare le dipendenze Python:
    ```bash
    pip install -r requirements.txt
 
