@@ -2,17 +2,6 @@
 
 Questo progetto è stato sviluppato presso l'Università di Pisa nel contesto del corso di laurea magistrale in informatica. L'obiettivo è analizzare e prevedere il comportamento del settore aziendale nel mercato azionario NASDAQ usando tecniche di data mining e machine learning.
 
-## Relatori
-- Anna Monreale
-- Lorenzo Mannocci
-- Francesca Naretto
-
-## Candidato
-- Alessandro Stefanelli
-
-## Anno Accademico
-- 2022/2023
-
 ## Strumenti Utilizzati
 - Python
   - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, yfinance, tensorflow, keras
