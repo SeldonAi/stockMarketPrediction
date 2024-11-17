@@ -23,12 +23,6 @@ Questo progetto è stato sviluppato presso l'Università di Pisa nel contesto de
 2. **Analisi di Clustering**: Utilizzo di tecniche come K-means, DBSCAN e clustering gerarchico per raggruppare le aziende basandosi sulle somiglianze dei dati di mercato.
 3. **Analisi Predittiva**: Implementazione di modelli di machine learning per prevedere l'etichetta di settore di ciascuna azienda.
 
-## Struttura dei File
-- `data_processing.ipynb`: Notebook per la pulizia e la preparazione dei dati.
-- `clustering_analysis.ipynb`: Notebook per l'analisi di clustering.
-- `predictive_analysis.ipynb`: Notebook per l'analisi predittiva.
-- `utils/`: Cartella contenente script di utilità per la manipolazione dei dati.
-
 ## Come Utilizzare
 1. Installare le dipendenze Python:
    ```bash
